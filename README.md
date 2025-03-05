@@ -327,7 +327,7 @@ A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools
 
 Hello, Hacker! 👋 We'd love to stay connected with you. Reach out to us on any of these platforms and let's build something amazing together:
  
-🔗 **GitHub:** [https://github.com/yogsec](https://github.com/rahulgarg2206)   
+🔗 **GitHub:** [https://github.com/rahulgarg2206](https://github.com/rahulgarg2206)   
 📷 **Instagram:** [https://www.instagram.com/rahulgarg__09/](https://www.instagram.com/rahulgarg__09/)   
 👨‍💼 **LinkedIn:** [https://www.linkedin.com/in/rahulgargji/](https://www.linkedin.com/in/rahulgargji/)  
 
